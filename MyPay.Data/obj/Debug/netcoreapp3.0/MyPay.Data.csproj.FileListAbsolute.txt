@@ -1,0 +1,8 @@
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\bin\Debug\netcoreapp3.0\MyPay.Data.deps.json
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\bin\Debug\netcoreapp3.0\MyPay.Data.dll
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\bin\Debug\netcoreapp3.0\MyPay.Data.pdb
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\obj\Debug\netcoreapp3.0\MyPay.Data.csprojAssemblyReference.cache
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\obj\Debug\netcoreapp3.0\MyPay.Data.AssemblyInfoInputs.cache
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\obj\Debug\netcoreapp3.0\MyPay.Data.AssemblyInfo.cs
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\obj\Debug\netcoreapp3.0\MyPay.Data.dll
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Data\obj\Debug\netcoreapp3.0\MyPay.Data.pdb

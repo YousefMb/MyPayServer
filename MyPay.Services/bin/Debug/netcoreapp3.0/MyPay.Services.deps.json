@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MyPay.Services/1.0.0": {
+        "runtime": {
+          "MyPay.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyPay.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

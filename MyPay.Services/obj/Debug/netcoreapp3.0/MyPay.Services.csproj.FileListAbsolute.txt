@@ -1,0 +1,11 @@
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\bin\Debug\netcoreapp3.0\MyPay.Services.deps.json
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\bin\Debug\netcoreapp3.0\MyPay.Services.dll
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\bin\Debug\netcoreapp3.0\MyPay.Services.pdb
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\obj\Debug\netcoreapp3.0\MyPay.Services.csprojAssemblyReference.cache
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\obj\Debug\netcoreapp3.0\MyPay.Services.AssemblyInfoInputs.cache
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\obj\Debug\netcoreapp3.0\MyPay.Services.AssemblyInfo.cs
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\obj\Debug\netcoreapp3.0\MyPay.Services.dll
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\obj\Debug\netcoreapp3.0\MyPay.Services.pdb
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\bin\Debug\netcoreapp3.0\MyPay.Repo.dll
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\bin\Debug\netcoreapp3.0\MyPay.Repo.pdb
+C:\Users\Yousef_Mb\Desktop\MyPay\MyPay\MyPay.Services\obj\Debug\netcoreapp3.0\MyPay.Services.csproj.CopyComplete

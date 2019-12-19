@@ -1,0 +1,26 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MyPay.Repo/1.0.0": {
+        "dependencies": {
+          "MyPay.Data": "1.0.0"
+        },
+        "runtime": {
+          "MyPay.Repo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyPay.Repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

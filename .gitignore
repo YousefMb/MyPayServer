@@ -1,0 +1,11 @@
+.vs
+MyPay.Common\bin
+MyPay.Common\obj
+MyPay.Data\bin
+MyPay.Data\obj
+MyPay.Presentation\bin
+MyPay.Presentation\obj
+MyPay.Repo\bin
+MyPay.Repo\obj
+MyPay.Services\bin
+MyPay.Services\obj
